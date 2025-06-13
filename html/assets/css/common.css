@@ -49,6 +49,7 @@ footer a { display: block; padding-bottom: .625rem; }
 .flex_btw { display: flex; align-items: center; justify-content: space-between; }
 .txt_center { text-align: center; }
 
+
 /* width */
 .max_w1920 { max-width: 120rem; margin: 0 auto; }
 .max_w1280 { max-width: 80rem; margin: 0 auto; padding-inline: .9375rem; }
